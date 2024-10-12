@@ -1,0 +1,85 @@
+{
+  "categories": [
+    {
+      "name": "Burgers",
+      "items": [
+        {
+          "id": 1,
+          "name": "Zinger Burger",
+          "description": "Spicy chicken fillet with lettuce and mayo.",
+          "price": "$6.99",
+          "image": "images/zinger-burger.webp"
+        },
+        {
+          "id": 2,
+          "name": "Original Recipe Burger",
+          "description": "Juicy chicken fillet with pickles and mayo.",
+          "price": "$5.99",
+          "image": "images/original-burger.webp"
+        }
+      ]
+    },
+    {
+      "name": "Wraps",
+      "items": [
+        {
+          "id": 1,
+          "name": "Twister",
+          "description": "Spicy crispy chicken wrap with cheese, lettuce and mayo.",
+          "price": "$4.99",
+          "image": "images/twister.webp"
+        },
+        {
+          "id": 2,
+          "name": "Box Master",
+          "description": "Juicy chicken fillet wrapped in a hot tortilla with cheese, tomato, lettuce and mayo.",
+          "price": "$7.99",
+          "image": "images/box-master.webp"
+        }
+      ]
+    },
+    {
+      "name": "Chicken",
+      "items": [
+        {
+          "id": 3,
+          "name": "Original Recipe Chicken",
+          "description": "Fried chicken with 11 herbs and spices.",
+          "price": "$7.99",
+          "image": "images/original-recipe-chicken.webp"
+        },
+        {
+          "id": 4,
+          "name": "Popcorn Chicken",
+          "description": "Bite-sized pieces of crispy chicken.",
+          "price": "$4.99",
+          "image": "images/popcorn-chicken.webp"
+        }
+      ]
+    },
+    {
+      "name": "Sides",
+      "items": [
+        {
+          "id": 5,
+          "name": "Fries",
+          "description": "Crispy golden fries.",
+          "price": "$2.99",
+          "image": "images/fries.webp"
+        }
+      ]
+    },
+    {
+      "name": "Beverages",
+      "items": [
+        {
+          "id": 6,
+          "name": "Coca-Cola",
+          "description": "Refreshing cola drink.",
+          "price": "$1.99",
+          "image": "images/coca-cola.webp"
+        }
+      ]
+    }
+  ]
+}
