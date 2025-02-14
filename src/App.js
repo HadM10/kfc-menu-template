@@ -16,7 +16,7 @@ const App = () => {
     image: "images/kfc.webp", // Replace with the actual image URL
   };
 
-  const restaurantPhone = "+225 01 73 72 22 22"; // Replace with actual phone number
+  const restaurantPhone = "+2250173722222"; // Replace with actual phone number
 
   useEffect(() => {
     const fetchMenu = async () => {
